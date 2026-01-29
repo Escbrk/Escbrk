@@ -10,4 +10,4 @@
 -->
 
 ### My stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,git,github,bash,vscode,figma,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,git,github,bash,vscode,postman,figma,photoshop)](https://skillicons.dev)
