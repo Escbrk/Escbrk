@@ -7,7 +7,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+nodejs
+mongodb
+
 -->
 
 ### My stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,git,github,bash,vscode,postman,figma,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,photoshop,html,css,js,react,git,github,bash,postman)](https://skillicons.dev)
