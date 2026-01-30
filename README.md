@@ -13,4 +13,4 @@ mongodb
 -->
 
 ### My stack
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,photoshop,html,css,js,react,git,github,bash,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,photoshop,html,css,js,react,git,github,bash,postman)]()
